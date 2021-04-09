@@ -18,7 +18,7 @@ public class Control {
             System.out.println(">>Welcome to Online Shop!!<<");
             System.out.println("       Version 0.1.0        ");
             System.out.println("============================");
-            System.out.println("");
+            System.out.println(" ");
             System.out.println("Press 0 -------------- login");
             System.out.println("Press 1 ----------- register");
             System.out.println("Press 2 --------------- exit");
